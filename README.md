@@ -1,9 +1,8 @@
-# 💰 Smart Expense Tracker
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/29f23f50-3667-4272-888b-363a610abcb9" /># 💰 Smart Expense Tracker
 
-A personal finance dashboard that runs fully in your browser 🌐. No backend, no API key, and your data stays in localStorage 🔒.
 
-🔗 **Live demo:** <your-netlify-or-render-url>
-📦 **Repo:** <your-github-url>
+🔗 **Live demo:** <https://kanakuapp.netlify.app>
+📦 **Repo:** <https://github.com/kowsalyadevivijay-cloud/Smart-Expense-Tracker>
 
 **Stack:** ⚛️ React · ⚡ Vite · 🎨 Tailwind CSS v4 · 📈 Recharts · 🧩 Lucide
 
