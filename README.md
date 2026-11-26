@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/29f23f50-3667-4272-888b-363a610abcb9" /># 💰 Smart Expense Tracker
+ 💰 Smart Expense Tracker
 
 
 🔗 **Live demo:** <https://kanakuapp.netlify.app>
